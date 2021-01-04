@@ -44,7 +44,7 @@ namespace Text_Based_Simple_Guess_Game
                     }
                     else if (i == 0 && tahmin != hedef)
                     {
-                        Console.WriteLine("Oyunu kaybettiniz lütfen tekrar başlatınız!");
+                        Console.WriteLine("Oyunu kaybettiniz! \nTekrar oynamak için lütfen tekrar başlatınız!");
                         break;
                     }
                 }
@@ -66,7 +66,7 @@ namespace Text_Based_Simple_Guess_Game
                     }
                     else if (i == 0 && tahmin != hedef)
                     {
-                        Console.WriteLine("Oyunu kaybettiniz lütfen tekrar başlatınız!");
+                        Console.WriteLine("Oyunu kaybettiniz! \nTekrar oynamak için lütfen tekrar başlatınız!");
                         break;
                     }
                 }
@@ -87,7 +87,7 @@ namespace Text_Based_Simple_Guess_Game
                     }
                     else if (i == 0 && tahmin != hedef)
                     {
-                        Console.WriteLine("Oyunu kaybettiniz lütfen tekrar başlatınız!");
+                        Console.WriteLine("Oyunu kaybettiniz! \nTekrar oynamak için lütfen tekrar başlatınız!");
                         break;
                     }
 
