@@ -32,7 +32,6 @@ namespace Text_Based_Simple_Guess_Game
             {
                 Random rnd = new Random();
                 int hedef = rnd.Next(10);
-                Console.WriteLine(hedef);
                 for (int i = 10; i <= 10; i--)
                 {
                     Console.WriteLine("Kalan hakkınız:");
@@ -54,7 +53,6 @@ namespace Text_Based_Simple_Guess_Game
             {
                 Random rnd = new Random();
                 int hedef = rnd.Next(25);
-                Console.WriteLine(hedef);
                 for (int i = 5; i <= 5; i--)
                 {
                     Console.WriteLine("Kalan Hakkınız");
@@ -77,7 +75,6 @@ namespace Text_Based_Simple_Guess_Game
             {
                 Random rnd = new Random();
                 int hedef = rnd.Next(50);
-                Console.WriteLine(hedef);
                 for (int i = 3; i < 4; i--)
                 {
                     Console.WriteLine("Kalan Hakkınız");
